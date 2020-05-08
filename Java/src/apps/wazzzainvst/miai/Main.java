@@ -1,10 +1,5 @@
 package apps.wazzzainvst.miai;
-//TODO -
-//comment all code
-//document methods
-//remove redundant code
-//comment all print
-//complete composition
+
 import apps.wazzzainvst.miai.objects.Instrument;
 import apps.wazzzainvst.miai.objects.Theme;
 import apps.wazzzainvst.miai.utilities.Composer;
