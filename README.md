@@ -63,7 +63,7 @@ Image Analysis Class - fetch associated image data object detection Python scrip
 
 # Training
 
-Tensor Flow & Google Colaboratory
+## Tensor Flow & Google Colaboratory
 
 The YoloV3 model is diverse but lacked some objects we wanted to detect, such as fires, tree, crowds and musical instruments, so we had to train it.
 
