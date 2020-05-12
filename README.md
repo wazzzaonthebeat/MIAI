@@ -64,6 +64,7 @@ Image Analysis Class - fetch associated image data object detection Python scrip
 # Training
 
 Tensor Flow & Google Colaboratory
+
 The YoloV3 model is diverse but lacked some objects we wanted to detect, such as fires, tree, crowds and musical instruments, so we had to train it.
 
 1) Preparing Dataset - Select atleast 1000 images of the object we wish to train the model to detect. We must then define the coordinates of that object (annotations) in every picture into an .xml file manually or using a program such as lableIMG. - See Figure 2.
