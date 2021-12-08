@@ -1,7 +1,7 @@
 ![logo](https://mrakhudu.tablemate.net/sites/default/files/2021-12/logo%20black.png)
 
 # Musical Image Artificial Intelligence
-> **[Visit Website](https://tablemate.online/miai)**
+> **[Visit Website](https://mrakhudu.tablemate.net/projects/miai)**
 
 > **[Watch Video Demonstrations on Youtube](https://www.youtube.com/watch?v=wucA0tWzhrE&list=PLtesPMCqCVApMJyWaUxOw4lY49zk2PwLG)**
 
