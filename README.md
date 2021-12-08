@@ -1,4 +1,4 @@
-![logo](https://tablemate.online/miai/images/logo_black3.png)
+![logo](https://mrakhudu.tablemate.net/sites/default/files/2021-12/logo%20black.png)
 
 # Musical Image Artificial Intelligence
 > **[Visit Website](https://tablemate.online/miai)**
@@ -25,7 +25,7 @@ View Objects/Data - A user can see images of individual objects detected in the 
 
 To listen to what this piece would sounds like, goto [Visit Youtube Channel](https://www.youtube.com/watch?v=wucA0tWzhrE&list=PLtesPMCqCVApMJyWaUxOw4lY49zk2PwLG).
 
-![Figure 4](https://tablemate.online/miai/images/figure4.jpg)
+![Figure 4](https://mrakhudu.tablemate.net/sites/default/files/inline-images/figure4.jpg)
 
 # Object Detection
 
@@ -48,7 +48,7 @@ Produces a file, *image name*.data, for all the images with detection data shown
 Each object detected is cropped and its background removed for object color analysis using OpenCV module
 Output will be interpreted by our main Java application.
 
-![Figure 1](https://tablemate.online/miai/images/figure1.jpg)
+![Figure 1](https://mrakhudu.tablemate.net/sites/default/files/inline-images/figure1.jpg)
 
 # Composition
 
@@ -59,7 +59,7 @@ Image Analysis Class - fetch associated image data object detection Python scrip
 2) Composition Class - program tallies the scores and decides what key to compose in, tempo, spaces between notes, and what sound effects to play. Every note, including rests, is added to a list.
 - Jsyn Audio Synthesis library reads the data of each note from the list and assigns the note to its corresponding frequencies, lengths and amplitudes and generates sine waves.
 
-![Figure 5](https://tablemate.online/miai/images/figure5.jpg)
+![Figure 5](https://mrakhudu.tablemate.net/sites/default/files/inline-images/figure5.jpg)
 
 # Training
 
@@ -74,11 +74,11 @@ The YoloV3 model is diverse but lacked some objects we wanted to detect, such as
 
 4) Model Evaluation - The program outputs a newly trained model and a percentage of uncertainty, reducing the longer it runs.
 
-![Figure 2](https://tablemate.online/miai/images/figure2.jpg)
+![Figure 2](https://mrakhudu.tablemate.net/sites/default/files/inline-images/figure2.jpg)
 
 
 # Mobile Application
 
 The mobile application developed for Android and iOS allows a user to upload a picture from their mobile device and send it to MiAI for instant analysis and composition. See Figure 6.
 
-![Figure 6](https://tablemate.online/miai/images/figure6.jpg)
+![Figure 6](https://mrakhudu.tablemate.net/sites/default/files/inline-images/figure6.jpg)
